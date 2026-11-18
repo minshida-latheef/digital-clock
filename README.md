@@ -22,10 +22,7 @@ This project helps practice JavaScript date and time functions, DOM manipulation
 - CSS3
 - JavaScript
 
-
-## 🌐 Live Demo
-
-[View Digital Clock](YOUR_LIVE_DEMO_URL)
+[View Digital Clock](https://minshida-latheef.github.io/digital-clock/)
 
 
 
